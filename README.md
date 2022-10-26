@@ -1,2 +1,2 @@
 # f2wa41malli
-README
+link to render server
